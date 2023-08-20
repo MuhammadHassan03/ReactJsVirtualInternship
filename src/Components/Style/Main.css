@@ -1,0 +1,38 @@
+.MainPageDiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+}
+
+
+
+
+.LeftDivMainPage{
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+}
+.GreetingsH1{
+    color: white;
+    font-size: 1.5rem;
+}
+.NameH1{
+    color: white;
+    font-size: 4rem;
+}
+
+.RoleH1{
+    color: white;
+    font-size: 1.9rem;
+}
+
+.picture{
+    width: 25rem;
+    border-radius: 16rem;
+    border: 10px solid white;
+    box-shadow: 1rem 1rem 1rem 1rem #131313;
+    
+}
