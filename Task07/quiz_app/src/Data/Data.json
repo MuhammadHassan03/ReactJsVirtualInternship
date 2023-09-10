@@ -1,0 +1,127 @@
+{
+    "quizTitle": "General Knowledge Quiz",
+    "questions": [
+      {
+        "questionId": 1,
+        "questionText": "What is the capital of France?",
+        "options": ["Berlin", "London", "Paris", "Madrid"],
+        "correctAnswer": "Paris"
+      },
+      {
+        "questionId": 2,
+        "questionText": "Which planet is known as the 'Red Planet'?",
+        "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+        "correctAnswer": "Mars"
+      },
+      {
+        "questionId": 3,
+        "questionText": "What is the largest mammal in the world?",
+        "options": ["Elephant", "Whale Shark", "Giraffe", "Blue Whale"],
+        "correctAnswer": "Blue Whale"
+      },
+      {
+        "questionId": 4,
+        "questionText": "Who wrote the play 'Romeo and Juliet'?",
+        "options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Jane Austen"],
+        "correctAnswer": "William Shakespeare"
+      },
+      {
+        "questionId": 5,
+        "questionText": "What is the chemical symbol for iron?",
+        "options": ["Fe", "Ir", "In", "I"],
+        "correctAnswer": "Fe"
+      },
+      {
+        "questionId": 6,
+        "questionText": "In which year did Christopher Columbus discover America?",
+        "options": ["1492", "1776", "1620", "1517"],
+        "correctAnswer": "1492"
+      },
+      {
+        "questionId": 7,
+        "questionText": "What is the largest planet in our solar system?",
+        "options": ["Mars", "Earth", "Saturn", "Jupiter"],
+        "correctAnswer": "Jupiter"
+      },
+      {
+        "questionId": 8,
+        "questionText": "What is the tallest mountain in the world?",
+        "options": ["Mount Kilimanjaro", "Mount Fuji", "Mount Everest", "Mount McKinley"],
+        "correctAnswer": "Mount Everest"
+      },
+      {
+        "questionId": 9,
+        "questionText": "Which gas do plants absorb from the atmosphere?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "correctAnswer": "Carbon Dioxide"
+      },
+      {
+        "questionId": 10,
+        "questionText": "Who painted the 'Mona Lisa'?",
+        "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+        "correctAnswer": "Leonardo da Vinci"
+      },
+      {
+        "questionId": 11,
+        "questionText": "What is the largest organ in the human body?",
+        "options": ["Heart", "Liver", "Brain", "Skin"],
+        "correctAnswer": "Skin"
+      },
+      {
+        "questionId": 12,
+        "questionText": "Which gas is responsible for the Earth's ozone layer?",
+        "options": ["Oxygen", "Carbon Dioxide", "Methane", "Ozone"],
+        "correctAnswer": "Ozone"
+      },
+      {
+        "questionId": 13,
+        "questionText": "What is the chemical symbol for gold?",
+        "options": ["Go", "Ag", "Au", "Fe"],
+        "correctAnswer": "Au"
+      },
+      {
+        "questionId": 14,
+        "questionText": "How many bones are there in the adult human body?",
+        "options": ["206", "100", "300", "150"],
+        "correctAnswer": "206"
+      },
+      {
+        "questionId": 15,
+        "questionText": "Who is known as the 'Father of Modern Physics'?",
+        "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Marie Curie"],
+        "correctAnswer": "Albert Einstein"
+      },
+      {
+        "questionId": 16,
+        "questionText": "What is the largest desert in the world?",
+        "options": ["Sahara Desert", "Gobi Desert", "Arabian Desert", "Antarctica"],
+        "correctAnswer": "Antarctica"
+      },
+      {
+        "questionId": 17,
+        "questionText": "What is the chemical symbol for water?",
+        "options": ["H2O", "CO2", "NaCl", "O2"],
+        "correctAnswer": "H2O"
+      },
+      {
+        "questionId": 18,
+        "questionText": "How many continents are there on Earth?",
+        "options": ["4", "6", "7", "5"],
+        "correctAnswer": "7"
+      },
+      {
+        "questionId": 19,
+        "questionText": "What is the largest country by land area?",
+        "options": ["Russia", "Canada", "China", "United States"],
+        "correctAnswer": "Russia"
+      },
+      {
+        "questionId": 20,
+        "questionText": "Which planet is known as the 'Morning Star'?",
+        "options": ["Mars", "Venus", "Mercury", "Jupiter"],
+        "correctAnswer": "Venus"
+      }
+      
+    ]
+  }
+  

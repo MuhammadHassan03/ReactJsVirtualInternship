@@ -1,0 +1,44 @@
+.card-title{
+  font-size: 2.2rem;
+  text-align: center;
+  margin-bottom: 1.5rem;  
+}
+
+.List-Style-Type{
+    list-style-type: none;
+}
+
+.ListStyle{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 8px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-top: 0.3rem;
+    margin-bottom: 0.3rem;
+}
+
+.InputRadio{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+}
+
+.OptionLabel{
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    font-size: 1.4rem;
+}
+
+.ButtonDiv{
+    display: flex;
+    align-items: center;
+    margin-top: 0.3rem;
+    justify-content: space-evenly;
+}

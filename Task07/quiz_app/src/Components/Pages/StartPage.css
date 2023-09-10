@@ -1,0 +1,9 @@
+.LiStyle{
+    font-size: 1.1rem;
+}
+.CardText{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
