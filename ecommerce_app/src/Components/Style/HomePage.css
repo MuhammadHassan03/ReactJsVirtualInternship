@@ -1,0 +1,20 @@
+.imagewidth{
+    width: 6rem;
+    mix-blend-mode: multiply;
+}
+
+.divHomePage{
+    background-color: #F8F9FA;
+    width: 80%;
+}
+
+.categoriesTab{
+    background-color: white;
+    border-radius: 8px;
+    width: 20%;
+    margin-left: 30px;
+}
+.sekelton{
+    width: 100%;
+    background-color: white;
+}

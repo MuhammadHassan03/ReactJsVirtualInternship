@@ -1,0 +1,147 @@
+.navBar{
+    background-color: #F8F9FA;
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+}
+.Logo{
+    /* color: white; */
+    font-size: 2rem;
+    text-align: center;
+}
+.LogoLink{
+    text-decoration: none;
+}
+
+
+/* HamberBurger */
+.HeaderDiv{
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+}
+
+.LogoDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+li {
+    list-style-type: none;
+    color: white;
+    padding: 8px;
+}
+
+.NavMenu {
+    display: flex;
+    align-items: center;
+}
+
+
+.hamburger {
+    display: none;
+    cursor: pointer;
+}
+
+.AuthDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bar {
+    display: flex;
+    width: 25px;
+    height: 3px;
+    margin: 3px auto;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    background-color: white;
+}
+
+
+/* Search Div */
+
+.searchBox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.searchBox input{
+    width: 50%;
+    border: none;
+    border-radius: 2px;
+    padding: 8px;
+    outline: none;
+    background-color: #0A1128;
+    border-radius: 8px;
+    color: white;
+}
+
+.searchBox input::placeholder{
+    padding: 4px;
+}
+
+@media (max-width : 768px) {
+
+    .Logo{
+        color: white;
+        font-size: 1.3rem;
+
+    }
+
+    .LogoDiv{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .NavMenu {
+        position: fixed;
+        left: -100%;
+        top: 58px;
+        gap: 0;
+        flex-direction: column;
+        width: 100%;
+        text-align: center;
+        transition: 0.3s;
+        background-color: #161616;
+        z-index: 1;
+    }
+
+    .hamburger {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .hamburger.active .bar:nth-child(2) {
+        opacity: 0;
+    }
+
+    .hamburger.active .bar:nth-child(1) {
+        transform: rotate(40deg) translateY(16px);
+    }
+
+    .hamburger.active .bar:nth-child(3) {
+        transform: rotate(-40deg) translateY(-16px);
+    }
+
+    .nav-item {
+        margin: 16px 0;
+    }
+
+    .NavMenu.active {
+        left: 0;
+    }
+
+    .searchBox input{
+        width: 90%;
+        border: none;
+        border-radius: 2px;
+        padding: 2px;
+        outline: none;
+        
+    }
+}
